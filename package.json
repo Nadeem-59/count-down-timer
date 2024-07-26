@@ -1,0 +1,17 @@
+{
+  "name": "countdowntimer_inovation",
+  "version": "1.0.0",
+  "description": "Its Amazing And Unique Count Down To U Lets See!",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mustabsiira Khalid",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^3.6.0"
+  }
+}
